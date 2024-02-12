@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(54, 54, 63);
+}
+.timer-circle {
+  width: 400px;
+  height: 400px;
+  border: 10px solid orange;
+  border-radius: 50%;
+  margin: 0 auto;
+  padding: 180px;
+  margin-top: 80px;
+  background-color: yellow;
+  margin-bottom: 50px;
+}
+.timer-incircle {
+  width: 330px;
+  height: 330px;
+  border: 10px solid orange;
+  border-radius: 50%;
+  margin: -155px;
+  background-color: rgb(255, 242, 219);
+}
+.timer-incircle h1 {
+  font-family: calibri;
+  text-align: center;
+  margin-top: 100px;
+  font-size: 90px;
+}
+.about {
+  font-family: calibri;
+  color: white;
+  width: 400px;
+  margin: 0 auto;
+}
